@@ -19,3 +19,5 @@ function bubbleSort($data) {
 $data = [7, 3, 9, 2, 4, 8, 10];
 
 var_dump(bubbleSort($data));
+
+//O(n^2)
